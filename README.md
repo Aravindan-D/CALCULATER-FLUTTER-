@@ -1,2 +1,2 @@
 # CALCULATER-FLUTTER-
-Here we created a simple calc
+Here I created a simple calculator that can do basic mathematical operations.
